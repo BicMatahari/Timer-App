@@ -1,0 +1,44 @@
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 80px;
+  letter-spacing: 5px;
+  word-spacing: 3.6px;
+  color: rgb(255,255,153);
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+body {
+  margin: 80px;
+  background-color: rgb(255,179,242);
+  font-family: arial, sans-serif;
+  color: rgb(255,230,247);
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  display: ;
+}
+
+img {
+  width: 550px;
+  height: 500px;
+  display: flex;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.timer {
+  margin-left: 50px;
+}
+
+.hidden {
+  display: none;
+
+}
+
+
